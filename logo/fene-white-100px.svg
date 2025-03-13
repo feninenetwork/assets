@@ -1,0 +1,10 @@
+<svg width="104" height="104" viewBox="0 0 104 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 20V52C2 60.832 9.616 68 19 68C28.384 68 36 60.832 36 52V20C36 28.832 28.384 36 19 36C9.616 36 2 28.832 2 20Z" fill="white" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M19 36C28.3888 36 36 28.3888 36 19C36 9.61116 28.3888 2 19 2C9.61116 2 2 9.61116 2 19C2 28.3888 9.61116 36 19 36Z" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M52 2H18.6667C9.46667 2 2 9.616 2 19C2 28.384 9.46667 36 18.6667 36H52C42.8 36 35.3333 28.384 35.3333 19C35.3333 9.616 42.8 2 52 2Z" fill="white" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M52 36C60.8366 36 68 28.3888 68 19C68 9.61116 60.8366 2 52 2C43.1634 2 36 9.61116 36 19C36 28.3888 43.1634 36 52 36Z" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M102 86V52.6667C102 43.4667 94.384 36 85 36C75.616 36 68 43.4667 68 52.6667V86C68 76.8 75.616 69.3333 85 69.3333C94.384 69.3333 102 76.8 102 86Z" fill="white" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M85 102C94.3888 102 102 94.3888 102 85C102 75.6112 94.3888 68 85 68C75.6112 68 68 75.6112 68 85C68 94.3888 75.6112 102 85 102Z" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M52 102H85.3333C94.5333 102 102 94.384 102 85C102 75.616 94.5333 68 85.3333 68H52C61.2 68 68.6667 75.616 68.6667 85C68.6667 94.384 61.2 102 52 102Z" fill="white" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M52 102C60.8366 102 68 94.3888 68 85C68 75.6112 60.8366 68 52 68C43.1634 68 36 75.6112 36 85C36 94.3888 43.1634 102 52 102Z" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+</svg>
